@@ -1,2 +1,2 @@
 # DataAcademy
-DATA ACADEMY PHYTON COURSE FILES
+Data Academy Python Course Files
